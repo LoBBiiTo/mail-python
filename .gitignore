@@ -5,6 +5,5 @@ SMTP_PORT = 587
 EMAIL_ADDRESS = "pablotrubbo@gmail.com" (Correo de Profint NoReply)
 EMAIL_PASSWORD = "wfln pokg kvxs gvup"
 profint.py
-python.py
 comprobantes/factura_prueba.pdf
 comprobantes/test factura 1.pdf
